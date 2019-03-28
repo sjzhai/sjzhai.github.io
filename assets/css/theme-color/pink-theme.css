@@ -1,5 +1,3 @@
-
-
 /*=======================================
 Template Design By MarkUps  
 Author URI : http://www.markups.io/
@@ -21,6 +19,7 @@ Author URI : http://www.markups.io/
 .mu-send-msg-btn:hover,
 .mu-send-msg-btn:focus,
 .mu-social-media a:hover,
+
 .mu-social-media a:focus {
 	border: 1px solid #ff2851;
 	color: #ff2851;
@@ -41,8 +40,8 @@ Author URI : http://www.markups.io/
 }
 
 .mu-contact-form .form-control:focus {
-	border: 1px solid #ff2851;    
-} 
+	border: 1px solid #ff2851;
+}
 
 .mu-resume-btn,
 .mu-service-icon-box {
@@ -50,11 +49,6 @@ Author URI : http://www.markups.io/
 	color: #ff2851;
 }
 
-
 .mu-pro-bar .proggress {
 	background-color: #ff2851 !important;
 }
-
-
-
-
